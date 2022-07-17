@@ -32,7 +32,7 @@
 
 ### working on the MNIST dataset to do the following :
 
-1 - Implemente a simple neural net with an architecture as shown in the figure below
+1 - Implement a simple neural net with an architecture as shown in the figure below
 ![image](https://user-images.githubusercontent.com/37241010/179427746-231d3401-1be3-43aa-8a1c-8c6e81edc269.png)
 
 2 - Use deep neural networks to perform the classification task using PyTorch 
