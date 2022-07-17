@@ -26,3 +26,29 @@
 #### - part1/kernel.py where the implementation of polynomial and Gaussian RBF kernels
 
 #### - part1/main.py where you can use the code wrote for this part of the project
+
+
+# Part 2
+
+### working on the MNIST dataset to do the following :
+
+1 - Implemente a simple neural net with an architecture as shown in the figure below
+![image](https://user-images.githubusercontent.com/37241010/179427746-231d3401-1be3-43aa-8a1c-8c6e81edc269.png)
+
+2 - Use deep neural networks to perform the classification task using PyTorch 
+
+3 - Apply convolutional neural networks to the same task
+
+4 - train a new neural networks to solve the problem of hand-written digit recognition using a multi-digit version of MNIST
+
+![image](https://user-images.githubusercontent.com/37241010/179427873-86919be5-d5ff-41b9-9b49-d95eed3c444c.png)
+
+## The Files Description :
+
+#### part2-nn/neural_nets.py in which you'll implement your first neural net from scratch
+
+#### part2-mnist/nnet_fc.py where you'll start using PyTorch to classify MNIST digits
+
+#### part2-mnist/nnet_conv.py where you will use convolutional layers to boost performance
+
+#### part2-twodigit/mlp.py and part2-twodigit/conv.py which are for a new, more difficult version of the MNIST dataset
