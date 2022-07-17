@@ -1,3 +1,6 @@
+## You can download the datasets from here : https://drive.google.com/drive/folders/1-nY2PHAgTjCId_nfeeG3989IEXVwyEPU?usp=sharing
+
+
 # Part 1
 
 ### working on the MNIST dataset to do the following :
