@@ -19,5 +19,8 @@ By unit:
 
 - Unit 05 - Reinforcement Learning:[[pdf](Unit%2005%20-%20Reinforcement%20Learning/Unit%2005%20-%20Reinforcement%20Learning.md.pdf)] [[src](Unit%2005%20-%20Reinforcement%20Learning/Unit%2005%20-%20Reinforcement%20Learning.md)]
 
+## [Review Notes](Machine%20Learning%20with%20Python%20-%20From%20Linear%20Models%20to%20Deep%20Learning%20(6.86x).pdf) David G. Khachatrian 2019
+
+
 ## [Projects 2022](Projects)
 
