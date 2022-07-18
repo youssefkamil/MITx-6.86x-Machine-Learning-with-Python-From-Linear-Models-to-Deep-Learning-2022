@@ -24,3 +24,5 @@ By unit:
 
 ## [Projects 2022](Projects)
 
+- [sentiment analysis](Projects/sentiment_analysis)
+- [Digit Recogintion Part 1&2](Projects/Digit%20Recogintion)
