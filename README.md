@@ -1,6 +1,7 @@
 # MITx-6.86x-Machine-Learning-with-Python-From-Linear-Models-to-Deep-Learning
 MITx 6.86x Machine Learning with Python-From Linear Models to Deep Learning
 
+# Notes
 ## Student's Notes 2020 : [sylvaticus](https://github.com/sylvaticus)
 
 [PDF all in one document](MITx_6.86x_notes.md.pdf)
@@ -21,8 +22,10 @@ By unit:
 
 ## [Review Notes](Machine%20Learning%20with%20Python%20-%20From%20Linear%20Models%20to%20Deep%20Learning%20(6.86x).pdf) David G. Khachatrian 2019
 
-
+# Codes
 ## [Projects 2022](Projects)
 
 - [sentiment analysis](Projects/sentiment_analysis)
 - [Digit Recogintion Part 1&2](Projects/Digit%20Recogintion)
+
+## [Misc](Misc) from [Dileep Nackathaya](https://github.com/dnackat)
