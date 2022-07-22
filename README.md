@@ -22,6 +22,8 @@ By unit:
 
 ## [Review Notes](Machine%20Learning%20with%20Python%20-%20From%20Linear%20Models%20to%20Deep%20Learning%20(6.86x).pdf) David G. Khachatrian 2019
 
+## [My Hand written Notes](Hand%20written%20Notes%20Mitx%206.86%20before%20Midterm.pdf)
+
 # Codes
 ## [Projects 2022](Projects)
 
