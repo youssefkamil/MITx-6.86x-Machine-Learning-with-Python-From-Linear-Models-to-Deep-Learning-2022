@@ -2,7 +2,7 @@
 MITx 6.86x Machine Learning with Python-From Linear Models to Deep Learning
 
 # Notes
-## Student's Notes 2020 : [sylvaticus](https://github.com/sylvaticus)
+## 1- Student's Notes 2020 : [sylvaticus](https://github.com/sylvaticus)
 
 [PDF all in one document](MITx_6.86x_notes.md.pdf)
 
@@ -20,9 +20,9 @@ By unit:
 
 - Unit 05 - Reinforcement Learning:[[pdf](Unit%2005%20-%20Reinforcement%20Learning/Unit%2005%20-%20Reinforcement%20Learning.md.pdf)] [[src](Unit%2005%20-%20Reinforcement%20Learning/Unit%2005%20-%20Reinforcement%20Learning.md)]
 
-## [Review Notes](Machine%20Learning%20with%20Python%20-%20From%20Linear%20Models%20to%20Deep%20Learning%20(6.86x).pdf) David G. Khachatrian 2019
+## 2- [Review Notes](Machine%20Learning%20with%20Python%20-%20From%20Linear%20Models%20to%20Deep%20Learning%20(6.86x).pdf) David G. Khachatrian 2019
 
-## [My Hand written Notes](Hand%20written%20Notes%20Mitx%206.86%20before%20Midterm.pdf)
+## 3- [My Hand written Notes](Hand%20written%20Notes%20Mitx%206.86%20before%20Midterm.pdf)
 
 # Codes
 ## [Projects 2022](Projects)
