@@ -476,7 +476,7 @@ For that we have first given a large set of documents in both languages, togethe
 From there we can estimate the PMF of the words using the MLE estimator (i.e., counting the relative proportions) for both Spanish and Italian (so our vocabulary would have both Spanish and Italian terms).
 
 We are now given a new document without the language label.
-Calling the two languages as "+" and "-", we compute the likelihood of the document under the first hypothesis ($P(D|\theta^+)$) as the joint probability using the first PMF , and the likelihood under the second hypothesis ($P(D|\theta^-)$) using the second PMF, and we decide how to classify the document according to which one is bigger.
+Calling the two languages as "+" and "-", we compute the likelihood of the document under the first hypothesis ( $P(D|\theta^+)$ ) as the joint probability using the first PMF , and the likelihood under the second hypothesis ( $P(D|\theta^-)$ ) using the second PMF, and we decide how to classify the document according to which one is bigger.
 
 The probability of a data item to belong to a given class, conditional to the probabilities of its feature vector is known also as class-conditional probability.
 
